@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Android build
+android/app/build
+
+# Android gradle binaries
+android/.gradle
+
+# iOS build
